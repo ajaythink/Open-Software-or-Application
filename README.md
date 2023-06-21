@@ -1,2 +1,3 @@
 # Open-Software-or-Application
 In this repository, I have uploaded source code and jar file also. Brief explanation of the project  , First one is I have used "JOptionpane.showInputDialog()" method which will take input (like mspaint, notepad, etc.) and after then software it will be open. Second one is Runtime class used also which provide the facility to execute the system ...
+Give the Software name with GUI Dilog box. 
